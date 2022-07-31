@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>博客测试文档</title>
+    <link href="/2022/07/31/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    <url>/2022/07/31/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是大标题"><a href="#这是大标题" class="headerlink" title="这是大标题"></a>这是大标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h4 id="这是另一个标题"><a href="#这是另一个标题" class="headerlink" title="这是另一个标题"></a>这是另一个标题</h4><p> 这是正文</p><p> <em>这是斜体</em></p><ul><li>test1</li><li>test2</li></ul><ol><li>one</li><li>tew</li></ol><p> this is a block</p><blockquote><p>hi</p><p>hello</p></blockquote> <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs c">prinft(<span class="hljs-string">&quot;helllo&quot;</span>);<br><span class="hljs-built_in">cout</span>&lt;&lt;<span class="hljs-string">&quot;hello&quot;</span>&lt;&lt;<span class="hljs-built_in">endl</span>;<br></code></pre></td></tr></table></figure><p><del>del</del></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/07/31/hello-world/"/>
     <url>/2022/07/31/hello-world/</url>
